@@ -1,0 +1,12 @@
+mkdir sandbox
+cd sandbox
+mkdir dir1
+touch file1.txt
+cd ..
+cd ..
+mkdir dir2
+touch file2.txt
+cd ..
+cd ..
+touch commands.txt
+gedit commands.txt
